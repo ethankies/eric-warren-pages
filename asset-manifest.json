@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eric-warren-pages/static/css/main.4a79f4b6.css",
-    "main.js": "/eric-warren-pages/static/js/main.c842ee33.js",
+    "main.js": "/eric-warren-pages/static/js/main.d2ef4cac.js",
     "static/js/787.06cfd63d.chunk.js": "/eric-warren-pages/static/js/787.06cfd63d.chunk.js",
     "static/media/Figures in Intercourse 3.jpg": "/eric-warren-pages/static/media/Figures in Intercourse 3.42afa0b6a7bd98dd532a.jpg",
     "static/media/Portrait of T. Gates.jpg": "/eric-warren-pages/static/media/Portrait of T. Gates.b0cf81dc9acca4217722.jpg",
@@ -29,11 +29,11 @@
     "index.html": "/eric-warren-pages/index.html",
     "static/media/about-me.txt": "/eric-warren-pages/static/media/about-me.31d6cfe0d16ae931b73c.txt",
     "main.4a79f4b6.css.map": "/eric-warren-pages/static/css/main.4a79f4b6.css.map",
-    "main.c842ee33.js.map": "/eric-warren-pages/static/js/main.c842ee33.js.map",
+    "main.d2ef4cac.js.map": "/eric-warren-pages/static/js/main.d2ef4cac.js.map",
     "787.06cfd63d.chunk.js.map": "/eric-warren-pages/static/js/787.06cfd63d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a79f4b6.css",
-    "static/js/main.c842ee33.js"
+    "static/js/main.d2ef4cac.js"
   ]
 }
