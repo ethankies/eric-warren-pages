@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eric-warren-pages/static/css/main.2f1552f7.css",
-    "main.js": "/eric-warren-pages/static/js/main.62ee9028.js",
+    "main.css": "/eric-warren-pages/static/css/main.fceae14e.css",
+    "main.js": "/eric-warren-pages/static/js/main.3424114a.js",
     "static/js/787.06cfd63d.chunk.js": "/eric-warren-pages/static/js/787.06cfd63d.chunk.js",
     "static/media/noise.png": "/eric-warren-pages/static/media/noise.9c0118d53f64eeb2886f.png",
     "static/media/strokes.jpg": "/eric-warren-pages/static/media/strokes.30ac1e4cac11b3ff0a4a.jpg",
@@ -17,12 +17,12 @@
     "static/media/headshot.jpg": "/eric-warren-pages/static/media/headshot.25f7c414ba5986acf0a0.jpg",
     "index.html": "/eric-warren-pages/index.html",
     "static/media/about-me.txt": "/eric-warren-pages/static/media/about-me.31d6cfe0d16ae931b73c.txt",
-    "main.2f1552f7.css.map": "/eric-warren-pages/static/css/main.2f1552f7.css.map",
-    "main.62ee9028.js.map": "/eric-warren-pages/static/js/main.62ee9028.js.map",
+    "main.fceae14e.css.map": "/eric-warren-pages/static/css/main.fceae14e.css.map",
+    "main.3424114a.js.map": "/eric-warren-pages/static/js/main.3424114a.js.map",
     "787.06cfd63d.chunk.js.map": "/eric-warren-pages/static/js/787.06cfd63d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f1552f7.css",
-    "static/js/main.62ee9028.js"
+    "static/css/main.fceae14e.css",
+    "static/js/main.3424114a.js"
   ]
 }
