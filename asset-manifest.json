@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/eric-warren-pages/static/css/main.fef42af0.css",
-    "main.js": "/eric-warren-pages/static/js/main.7408a2fb.js",
+    "main.css": "/eric-warren-pages/static/css/main.bde71a23.css",
+    "main.js": "/eric-warren-pages/static/js/main.d26e5f72.js",
     "static/js/787.06cfd63d.chunk.js": "/eric-warren-pages/static/js/787.06cfd63d.chunk.js",
-    "static/media/noise.png": "/eric-warren-pages/static/media/noise.9c0118d53f64eeb2886f.png",
-    "static/media/strokes.jpg": "/eric-warren-pages/static/media/strokes.30ac1e4cac11b3ff0a4a.jpg",
-    "static/media/graphite2.jpg": "/eric-warren-pages/static/media/graphite2.9baf04c6a129697df9ec.jpg",
-    "static/media/graphite.jpg": "/eric-warren-pages/static/media/graphite.24a88c0a7f301aacf411.jpg",
-    "static/media/Exhibition.jpg": "/eric-warren-pages/static/media/Exhibition.f8f50ea1fa0f08522d56.jpg",
-    "static/media/homebg.jpg": "/eric-warren-pages/static/media/homebg.61d83221a6c1bc15fda9.jpg",
+    "static/media/Missed II.jpg": "/eric-warren-pages/static/media/Missed II.ac2fe3c4ef8969328627.jpg",
+    "static/media/Figures Mid Intercourse II.jpg": "/eric-warren-pages/static/media/Figures Mid Intercourse II.6c0a468b8ea8316f1cde.jpg",
+    "static/media/Boxed.jpg": "/eric-warren-pages/static/media/Boxed.c239e12083ce41eee1ae.jpg",
+    "static/media/Missed I.jpg": "/eric-warren-pages/static/media/Missed I.9ed019a07f25b8e0e622.jpg",
+    "static/media/Figures Mid Intercourse I.jpg": "/eric-warren-pages/static/media/Figures Mid Intercourse I.dd93a42199391fee4bfc.jpg",
+    "static/media/Figures Playing.jpg": "/eric-warren-pages/static/media/Figures Playing.bf16fe5e839e33002dac.jpg",
+    "static/media/Figures Mid Intercourse III.jpg": "/eric-warren-pages/static/media/Figures Mid Intercourse III.5a5d7f5659d3e115e70b.jpg",
+    "static/media/Oedipus.jpg": "/eric-warren-pages/static/media/Oedipus.36c58b1fb466a9576fb2.jpg",
+    "static/media/Self Portrait.jpg": "/eric-warren-pages/static/media/Self Portrait.7188c32a98721364c8b1.jpg",
+    "static/media/headshot.jpg": "/eric-warren-pages/static/media/headshot.2a8b47f9c46232337d79.jpg",
     "static/media/Potential1.jpg": "/eric-warren-pages/static/media/Potential1.2b98fa9c638d5c31637b.jpg",
     "static/media/Potential2.jpg": "/eric-warren-pages/static/media/Potential2.6b37ec831fc95b003391.jpg",
     "static/media/Potential3.jpg": "/eric-warren-pages/static/media/Potential3.3d2a5e49d4e2cb35e5cc.jpg",
     "static/media/Potential4.jpg": "/eric-warren-pages/static/media/Potential4.33777e5971994b550c05.jpg",
     "static/media/Avenir Next LT Pro Regular.otf": "/eric-warren-pages/static/media/Avenir Next LT Pro Regular.94f2f163d4b698242fef.otf",
-    "static/media/headshot.jpg": "/eric-warren-pages/static/media/headshot.25f7c414ba5986acf0a0.jpg",
     "index.html": "/eric-warren-pages/index.html",
     "static/media/about-me.txt": "/eric-warren-pages/static/media/about-me.31d6cfe0d16ae931b73c.txt",
-    "main.fef42af0.css.map": "/eric-warren-pages/static/css/main.fef42af0.css.map",
-    "main.7408a2fb.js.map": "/eric-warren-pages/static/js/main.7408a2fb.js.map",
+    "main.bde71a23.css.map": "/eric-warren-pages/static/css/main.bde71a23.css.map",
+    "main.d26e5f72.js.map": "/eric-warren-pages/static/js/main.d26e5f72.js.map",
     "787.06cfd63d.chunk.js.map": "/eric-warren-pages/static/js/787.06cfd63d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fef42af0.css",
-    "static/js/main.7408a2fb.js"
+    "static/css/main.bde71a23.css",
+    "static/js/main.d26e5f72.js"
   ]
 }
