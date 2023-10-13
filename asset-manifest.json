@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.85953c80.css",
-    "main.js": "/static/js/main.b152214d.js",
+    "main.css": "/static/css/main.9c2608ee.css",
+    "main.js": "/static/js/main.33136d97.js",
     "static/js/787.06cfd63d.chunk.js": "/static/js/787.06cfd63d.chunk.js",
     "static/media/Missed II.jpg": "/static/media/Missed II.ac2fe3c4ef8969328627.jpg",
     "static/media/Figures Mid Intercourse II.jpg": "/static/media/Figures Mid Intercourse II.6c0a468b8ea8316f1cde.jpg",
@@ -20,12 +20,12 @@
     "static/media/Potential3.jpg": "/static/media/Potential3.3d2a5e49d4e2cb35e5cc.jpg",
     "static/media/Avenir Next LT Pro Regular.otf": "/static/media/Avenir Next LT Pro Regular.94f2f163d4b698242fef.otf",
     "index.html": "/index.html",
-    "main.85953c80.css.map": "/static/css/main.85953c80.css.map",
-    "main.b152214d.js.map": "/static/js/main.b152214d.js.map",
+    "main.9c2608ee.css.map": "/static/css/main.9c2608ee.css.map",
+    "main.33136d97.js.map": "/static/js/main.33136d97.js.map",
     "787.06cfd63d.chunk.js.map": "/static/js/787.06cfd63d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85953c80.css",
-    "static/js/main.b152214d.js"
+    "static/css/main.9c2608ee.css",
+    "static/js/main.33136d97.js"
   ]
 }
