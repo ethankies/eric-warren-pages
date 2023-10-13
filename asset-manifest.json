@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.faf0d86c.css",
-    "main.js": "/static/js/main.65977c83.js",
+    "main.css": "/static/css/main.963ca876.css",
+    "main.js": "/static/js/main.b152214d.js",
     "static/js/787.06cfd63d.chunk.js": "/static/js/787.06cfd63d.chunk.js",
     "static/media/Missed II.jpg": "/static/media/Missed II.ac2fe3c4ef8969328627.jpg",
     "static/media/Figures Mid Intercourse II.jpg": "/static/media/Figures Mid Intercourse II.6c0a468b8ea8316f1cde.jpg",
@@ -14,17 +14,18 @@
     "static/media/Self Portrait.jpg": "/static/media/Self Portrait.7188c32a98721364c8b1.jpg",
     "static/media/headshot.jpg": "/static/media/headshot.2a8b47f9c46232337d79.jpg",
     "static/media/SpecBG.jpg": "/static/media/SpecBG.5a14f718a2be9b3672e3.jpg",
+    "static/media/Exhibition.jpg": "/static/media/Exhibition.f8f50ea1fa0f08522d56.jpg",
     "static/media/NewYork.otf": "/static/media/NewYork.e934fc10a53877d377d0.otf",
     "static/media/Potential1.jpg": "/static/media/Potential1.2b98fa9c638d5c31637b.jpg",
     "static/media/Potential3.jpg": "/static/media/Potential3.3d2a5e49d4e2cb35e5cc.jpg",
     "static/media/Avenir Next LT Pro Regular.otf": "/static/media/Avenir Next LT Pro Regular.94f2f163d4b698242fef.otf",
     "index.html": "/index.html",
-    "main.faf0d86c.css.map": "/static/css/main.faf0d86c.css.map",
-    "main.65977c83.js.map": "/static/js/main.65977c83.js.map",
+    "main.963ca876.css.map": "/static/css/main.963ca876.css.map",
+    "main.b152214d.js.map": "/static/js/main.b152214d.js.map",
     "787.06cfd63d.chunk.js.map": "/static/js/787.06cfd63d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faf0d86c.css",
-    "static/js/main.65977c83.js"
+    "static/css/main.963ca876.css",
+    "static/js/main.b152214d.js"
   ]
 }
