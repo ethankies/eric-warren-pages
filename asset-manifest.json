@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c2608ee.css",
-    "main.js": "/static/js/main.33136d97.js",
+    "main.css": "/static/css/main.60473062.css",
+    "main.js": "/static/js/main.ecf1b7fd.js",
     "static/js/787.06cfd63d.chunk.js": "/static/js/787.06cfd63d.chunk.js",
+    "static/media/Cloudburst.jpg": "/static/media/Cloudburst.4f92a658ff0cba0a8c9f.jpg",
     "static/media/Missed II.jpg": "/static/media/Missed II.ac2fe3c4ef8969328627.jpg",
+    "static/media/ericpainting.jpg": "/static/media/ericpainting.c25806e6824d6cb0ad7d.jpg",
+    "static/media/hom1.jpg": "/static/media/hom1.8ffabe9e02e6ce491570.jpg",
+    "static/media/aboutericheadshot.jpg": "/static/media/aboutericheadshot.2df44cd464d474bd1722.jpg",
     "static/media/Figures Mid Intercourse II.jpg": "/static/media/Figures Mid Intercourse II.6c0a468b8ea8316f1cde.jpg",
     "static/media/Boxed.jpg": "/static/media/Boxed.c239e12083ce41eee1ae.jpg",
     "static/media/Missed I.jpg": "/static/media/Missed I.9ed019a07f25b8e0e622.jpg",
@@ -13,19 +17,21 @@
     "static/media/Oedipus.jpg": "/static/media/Oedipus.36c58b1fb466a9576fb2.jpg",
     "static/media/Self Portrait.jpg": "/static/media/Self Portrait.7188c32a98721364c8b1.jpg",
     "static/media/headshot.jpg": "/static/media/headshot.2a8b47f9c46232337d79.jpg",
+    "static/media/home3.jpg": "/static/media/home3.ac3ee7ffc10c6fbb307f.jpg",
+    "static/media/mixingpaint.jpg": "/static/media/mixingpaint.8fe8cb11fd26f5cceb0d.jpg",
+    "static/media/home2.jpg": "/static/media/home2.d3af6d3968010325ce73.jpg",
     "static/media/SpecBG.jpg": "/static/media/SpecBG.5a14f718a2be9b3672e3.jpg",
-    "static/media/Exhibition.jpg": "/static/media/Exhibition.f8f50ea1fa0f08522d56.jpg",
     "static/media/NewYork.otf": "/static/media/NewYork.e934fc10a53877d377d0.otf",
     "static/media/Potential1.jpg": "/static/media/Potential1.2b98fa9c638d5c31637b.jpg",
     "static/media/Potential3.jpg": "/static/media/Potential3.3d2a5e49d4e2cb35e5cc.jpg",
     "static/media/Avenir Next LT Pro Regular.otf": "/static/media/Avenir Next LT Pro Regular.94f2f163d4b698242fef.otf",
     "index.html": "/index.html",
-    "main.9c2608ee.css.map": "/static/css/main.9c2608ee.css.map",
-    "main.33136d97.js.map": "/static/js/main.33136d97.js.map",
+    "main.60473062.css.map": "/static/css/main.60473062.css.map",
+    "main.ecf1b7fd.js.map": "/static/js/main.ecf1b7fd.js.map",
     "787.06cfd63d.chunk.js.map": "/static/js/787.06cfd63d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c2608ee.css",
-    "static/js/main.33136d97.js"
+    "static/css/main.60473062.css",
+    "static/js/main.ecf1b7fd.js"
   ]
 }
