@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.60473062.css",
-    "main.js": "/static/js/main.a6e6c78a.js",
+    "main.js": "/static/js/main.02a4dd38.js",
     "static/js/787.06cfd63d.chunk.js": "/static/js/787.06cfd63d.chunk.js",
     "static/media/Cloudburst.jpg": "/static/media/Cloudburst.4f92a658ff0cba0a8c9f.jpg",
     "static/media/Missed II.jpg": "/static/media/Missed II.ac2fe3c4ef8969328627.jpg",
@@ -27,11 +27,11 @@
     "static/media/Avenir Next LT Pro Regular.otf": "/static/media/Avenir Next LT Pro Regular.94f2f163d4b698242fef.otf",
     "index.html": "/index.html",
     "main.60473062.css.map": "/static/css/main.60473062.css.map",
-    "main.a6e6c78a.js.map": "/static/js/main.a6e6c78a.js.map",
+    "main.02a4dd38.js.map": "/static/js/main.02a4dd38.js.map",
     "787.06cfd63d.chunk.js.map": "/static/js/787.06cfd63d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60473062.css",
-    "static/js/main.a6e6c78a.js"
+    "static/js/main.02a4dd38.js"
   ]
 }
